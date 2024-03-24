@@ -1,0 +1,1 @@
+A .NET Core project to be developed using the CQRS (Command Query Responsibility Segregation), Mediator, and Repository design patterns, along with JWT (JSON Web Tokens) for authentication and SignalR for real-time communication.
